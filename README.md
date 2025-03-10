@@ -50,6 +50,6 @@ This project is open-source and available under the MIT License.
 
 ---
 
-Made with ❤️ by [Aisha Fathima](https://github.com/your-username)
+
 
 
